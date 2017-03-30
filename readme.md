@@ -9,7 +9,7 @@ This is a [kokopelli 0.05](http://beachlab.org/fab2016/kokoretro.html) and assem
 **milling_images** For those lazy guys that want to fabricate the watch straight away.  
 
 ### Fabrication
-The most straight forward to mill the circuit board is uding the [fab modules](http://kokompe.cba.mit.edu/). Inside the **milling_images** folder you will find `.png` files for the traces, holes, cutout and side b traces. You should execute them in this order.
+The most straight forward to mill the circuit board is using the [fab modules](http://kokompe.cba.mit.edu/). Inside the **milling_images** folder you will find `.png` files for the traces, holes, cutout and side b traces. You should execute them in this order.
 
 ![](./doc_img/fabmodules.jpg)
 
